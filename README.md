@@ -1,10 +1,7 @@
 # MyPharma-Client
 [Halted] Personal project to build a distribution system for pharmaceutical products. 
 
-
-# MainPage
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+This project was developed with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
 ## Development server
 
